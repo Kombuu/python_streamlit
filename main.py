@@ -3,7 +3,7 @@ import time
 
 st.title('Streamlit')
 
-st.write('プログレスバーの表示')
+st.write('プログレスバーを表示する')
 'Start!!!'
 
 latest_interation = st.empty()
